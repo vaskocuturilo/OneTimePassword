@@ -1,4 +1,4 @@
-package com.test.spring;
+package com.test.spring.unit;
 
 
 import com.test.spring.entity.UserEntity;
